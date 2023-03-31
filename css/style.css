@@ -1640,6 +1640,7 @@ figure.dotted-bg {
   align-items: center;
   margin: 10px 0;
   flex-wrap: wrap;
+  vertical-align: middle;
 }
 
 .social-icon__item,
@@ -1676,7 +1677,7 @@ figure.dotted-bg {
 .footer p {
   color: black;
   margin: 15px 0 10px 0;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-weight: 300;
+  text-align: center;
 }
-
